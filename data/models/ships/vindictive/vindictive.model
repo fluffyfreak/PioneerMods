@@ -1,0 +1,11 @@
+material malabar-material
+diffuse 1.0 1.0 1.0
+specular 0.2 0.2 0.2
+shininess 1
+tex_diff vindictive_diff.png
+
+lod 300
+mesh vindictive.dae
+mesh vindictive_turrets.dae
+
+anim gear_down 0 122
