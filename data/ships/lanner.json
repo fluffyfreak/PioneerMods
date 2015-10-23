@@ -1,0 +1,31 @@
+{
+   "model" : "lanner",
+   "name" : "Lanner",
+   "cockpit" : "",
+   "manufacturer" : "auronox",
+   "ship_class" : "medium_fighter",
+   "min_crew" : 1,
+   "max_crew" : 3,
+   "price" : 280000.0,
+   "hull_mass" : 130,
+   "capacity" : 191,
+   "slots" : {
+      "atmo_shield" : 1,
+      "cargo" : 191,
+      "scoop" : 0,
+      "laser_front" : 1,
+      "laser_rear" : 1,
+      "missile" : 4
+   },
+   "effective_exhaust_velocity" : 56316000.0,
+   "thruster_fuel_use" : -1.0,
+   "fuel_tank_mass" : 173,
+   "hyperdrive_class" : 3,
+   "forward_thrust" : 47800000.0,
+   "reverse_thrust" : 15900000.0,
+   "up_thrust" : 15900000.0,
+   "down_thrust" : 8000000.0,
+   "left_thrust" : 8000000.0,
+   "right_thrust" : 8000000.0,
+   "angular_thrust" : 117000000.0
+}
